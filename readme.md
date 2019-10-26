@@ -12,6 +12,7 @@ elif b>a and b>c :
 elif c>a and c>b :
     print (c,"adalah bilangan terbesar")
 ```
+![](https://github.com/fatihul-falah/labspy02/blob/master/coding.PNG)
 
 ## Penjelasan
 pertama deklarasikan variable dan tipe data 
