@@ -36,3 +36,7 @@ elif b>a and b>c :
 elif c>a and c>b :
     print (c,"adalah bilangan terbesar")
 ```
+## Hasil Output
+![](https://github.com/fatihul-falah/labspy02/blob/master/output%20bilangan%20A.PNG)
+![](https://github.com/fatihul-falah/labspy02/blob/master/output%20bilangan%20B.PNG)
+![](https://github.com/fatihul-falah/labspy02/blob/master/output%20bilangan%20C.PNG)
